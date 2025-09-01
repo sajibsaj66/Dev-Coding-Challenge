@@ -1,7 +1,7 @@
 "use client";
 
-import { motion, useMotionValue, useAnimationFrame , useReducedMotion } from "framer-motion";
-import { useEffect, useRef, useState } from "react";
+import { motion,useReducedMotion } from "framer-motion";
+
 
 import Img1 from "@/assets/Icons/Shape.png";
 import Img2 from "@/assets/Icons/Shape1.png";
