@@ -5,7 +5,7 @@ import { GradualSpacing } from "../animation/GradualSpacing";
 const HeroSection = () => {
   return (
     <section className="bg-[#53389E] text-white text-start md:text-center px-4">
-      <div className="py-12 md:py-25">
+      <div className="pb-12 pt-20 md:py-25">
         {/* Small tagline */}
         <p className="text-xs md:text-sm tracking-wide mb-2">
           Super. Simple. Banking.
