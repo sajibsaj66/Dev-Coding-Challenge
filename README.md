@@ -1,4 +1,6 @@
-# Line Deploy Link
+# Live Deploy Link  
 
-- [@LiveLink](https://dev-coding-challenge-steel.vercel.app/)
-[Uploading Screencast from 2025-09-01 20-03-55.webm…]()
+-  [Live Preview](https://dev-coding-challenge-steel.vercel.app/)  
+
+- Screencast: [Screencast from 2025-09-01 20-03-55.webm](upload link here)  
+
