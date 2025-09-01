@@ -2,9 +2,10 @@
 
 -  [Live Preview](https://dev-coding-challenge-steel.vercel.app/)  
 
--  Screencast Demo  
+🎥 Screencast Demo  
 
-🎥 [Watch Screencast](https://github.com/user-attachments/assets/3b177c72-d093-478d-b350-c1555ea31f36)
+<video src="https://github.com/user-attachments/assets/3b177c72-d093-478d-b350-c1555ea31f36" controls width="600"></video>
+
 
 
 
