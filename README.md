@@ -4,6 +4,7 @@
 
 -  Screencast Demo  
 
-<video src="https://github.com/user-attachments/assets/3b177c72-d093-478d-b350-c1555ea31f36" controls width="600"></video>
+🎥 [Watch Screencast](https://github.com/user-attachments/assets/3b177c72-d093-478d-b350-c1555ea31f36)
+
 
 
